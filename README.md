@@ -22,10 +22,10 @@ History/Leaderboard of the users thar have played the gsnr1is available
 
    LINKS
    
-   Backend repo link:[https://github.com/Afoxcute/rps-game-backend](https://github.com/Afoxcute/rps-backend)
+   Backend repo link:[https://github.com/Afoxcute/solarps-backend](https://github.com/Afoxcute/solarps-backend)
 
    
-   Smart Contract repo link :https://github.com/Afoxcute/rps-game-SC
+   Smart Contract repo link : https://github.com/Afoxcute/solarps-programs
 
    
    Pictures and video demo of the project:https://drive.google.com/drive/folders/1HtxmhCFGpu4Rzpfe2VkuiRdxnCQwwX-Y
